@@ -130,7 +130,7 @@ footer {
 }
 .author-block {
 	/* text-align: center; */
-	margin-left: 90px;
+	/* margin-left: 90px; */
 }
 .footer-cta-block {
 	text-align: center;
@@ -189,6 +189,9 @@ footer {
 		font-size: 14px;
 		padding: 8px 35px;
 	}
+	.container {
+		text-align: center;
+	}
 }
 
 @media (max-width: 768px){
@@ -201,7 +204,7 @@ footer {
 		padding-left: 20px;
 		padding-right: 20px;
 	}
-	.footer-author, .footer-text {
+	.footer-author, .footer-text, .container {
 		text-align: center;
 	}
 }
