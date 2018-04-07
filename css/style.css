@@ -18,7 +18,7 @@ header {
 	margin-top: 102px;
 }
 .header-titel {
-	font-size: 48px;
+	font-size: 40px;
 	font-weight: 700;
 	line-height: 36.81px;
 	margin-top: 21px;
@@ -204,7 +204,7 @@ footer {
 		padding-left: 20px;
 		padding-right: 20px;
 	}
-	.footer-author, .footer-text, .container {
+	.footer-author, .footer-text, .container, .header-button-block {
 		text-align: center;
 	}
 }
